@@ -16,6 +16,8 @@ color:#061A40;
     color:#061A40;
     background: #A8DADC;
     padding:2%;
+    max-width:500px;
+    margin:10px auto 10px auto;
 
 }
 .second-main-heading{
@@ -23,17 +25,36 @@ color:#061A40;
     background: #A8DADC ;  
 
 }
-.paragraph-heading{
+.paragraph--heading{
     color:#061A40;
     background: #A8DADC;
+    max-width:300px;
+    padding:auto;
+    margin:10px auto ;
 }
-.section-heading{
+.paragraph{
+    margin:0 10px;
+}
+.section--heading{
     color:#061A40;
     background: #A8DADC;    
     
 }
-.learned{
-    color:#3fadb1 ;
+.week{
+    width:300px;
+    margin:20px auto
+}
+.week--heading{
+    
+}
+.learned--heading{
+    
+}
+.learned--list{
+    color:red;
+    max-width:500px;
+    margin:20px auto;
+
 }
 .navigation-bar{
     background:#061A40;
@@ -44,6 +65,11 @@ color:#061A40;
 }
 .footer{
     background:#061A40;
-    color:#d5f3ff;
+    color:#d5f3ff;;
     padding:0.5%;
+    border:0.5px solid black;
+    border-radius: 10%;
+    position:fixed;
+    top:20px;
+    right:20px;
 }
