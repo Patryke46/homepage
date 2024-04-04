@@ -1,13 +1,49 @@
+html{
+    box-sizing:border-box;
+}
+*, *:before, *after{
+    box-sizing:inherit;
+}
+
 body {
-    background:#63afb470;
+    background:#F1FFFA;
 }
-h1 {
-    color:#00a2e2ab
+.week{
+color:#061A40;
 }
-h2 {
-    color:#1460AA;
+
+.main-heading{
+    color:#061A40;
+    background: #A8DADC;
+    padding:2%;
+
 }
-h3 {
-    background:#a45a5a;
+.second-main-heading{
+    color:#061A40;
+    background: #A8DADC ;  
+
 }
-h5 {color: #792c65;}
+.paragraph-heading{
+    color:#061A40;
+    background: #A8DADC;
+}
+.section-heading{
+    color:#061A40;
+    background: #A8DADC;    
+    
+}
+.learned{
+    color:#3fadb1 ;
+}
+.navigation-bar{
+    background:#061A40;
+    padding:0.5%;
+}
+.navigation-link{
+   color:#d5f3ff ;
+}
+.footer{
+    background:#061A40;
+    color:#d5f3ff;
+    padding:0.5%;
+}
