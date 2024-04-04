@@ -33,7 +33,7 @@ color:#061A40;
     margin:10px auto ;
 }
 .paragraph{
-    margin:0 10px;
+    margin:10px 10px;
 }
 .section--heading{
     color:#061A40;
@@ -72,4 +72,11 @@ color:#061A40;
     position:fixed;
     top:20px;
     right:20px;
+}
+
+.block__element--js{
+    display:inline;
+    background:orange;
+
+    
 }
